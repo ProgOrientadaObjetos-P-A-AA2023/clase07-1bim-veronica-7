@@ -29,6 +29,9 @@ public class ManejoArrayList1 {
         
         System.out.println("-----------------------------");
         
+        prof1.establecerNombre("Joseph Jimenez 2.0");
+        prof2.establecerNombre("David Jones 2.0");
+        
         // ArrayList
         ArrayList <Profesor> profesores2 = new ArrayList<>();
         profesores2.add(prof1);
